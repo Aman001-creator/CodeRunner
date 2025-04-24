@@ -92,5 +92,5 @@ This project is licensed under the MIT License – see the [LICENSE.md](LICENSE.
 ## 🤝 Contact
 
 - **Aman Kumar** (Creator)  
-  - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-  - [GitHub](https://github.com/yourusername)
+  - [LinkedIn](https://www.linkedin.com/in/aman-kumar-54244b253/)
+  - [GitHub](https://github.com/Aman001-creator)
